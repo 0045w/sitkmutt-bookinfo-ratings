@@ -2,3 +2,7 @@
 
 Rating service has been developed on NodeJS
 
+## License
+
+MIT License
+
